@@ -22,4 +22,4 @@ api.authenticate()
 
 # print(api.dataset_list(search='henryshan'))
 
-api.dataset_download_file('henryshan/starbucks','starbucks.csv', path='python/dataset')
+api.dataset_download_file('henryshan/starbucks','starbucks.csv', path='python/new_directory/dataset')
